@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(250, 250, 250);
+    background-image: url("https://www.transparenttextures.com/patterns/gplay.png");
+    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+    
+}
+
+.container{
+    display: flex;
+    align-items:stretch;
+    justify-content: center;
+    flex-direction: column;
+}
